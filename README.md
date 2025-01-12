@@ -37,7 +37,7 @@
 
 ###
 
-<img align="center" height="150" src="./gif/my_top.gif"  />
+<img align="left" height="150" src="./gif/my_top.gif"  />
 
 ###
 
@@ -45,6 +45,6 @@
 
 ###
 
-<img align="right" height="150" src="./gif/my_radar.gif"  />
+<img align="left" height="150" src="./gif/my_radar.gif"  />
 
 ###
