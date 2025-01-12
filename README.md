@@ -37,7 +37,7 @@
 
 ###
 
-<img align="center" height="170" src="my_top.gif"  />
+<img align="center" height="170" src="./gifmy_top.gif"  />
 
 ###
 
