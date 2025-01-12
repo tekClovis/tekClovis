@@ -37,6 +37,7 @@
 
 ###
 
+<<<<<<< HEAD
 <img align="center" height="168" src="./gifmy_top.gif"  />
 
 ###
@@ -46,5 +47,16 @@
 ###
 
 <img align="right" height="168" src="./gif/my_radar.gif"  />
+=======
+<img align="left" height="178" src="./gif/my_top.gif"  />
+
+###
+
+<img align="left" height="178" src="./gif/my_hunter.gif"  />
+
+###
+
+<img align="left" height="178" src="./gif/my_radar.gif"  />
+>>>>>>> bcacba9169b63c1c228fe560e4f083908ed63130
 
 ###
