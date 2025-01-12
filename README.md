@@ -41,10 +41,10 @@
 
 ###
 
-<img align="left" height="200" src="./gif/my_hunter.gif"  />
+<img align="left" height="100" src="./gif/my_hunter.gif"  />
 
 ###
 
-<img align="left" height="200" src="./gif/my_radar.gif"  />
+<img align="left" height="100" src="./gif/my_radar.gif"  />
 
 ###
