@@ -37,14 +37,14 @@
 
 ###
 
-<img align="center" height="175" src="https://bytexd.com/wp-content/uploads/2021/08/word-image-2.gif"  />
+<img align="center" height="170" src="https://bytexd.com/wp-content/uploads/2021/08/word-image-2.gif"  />
 
 ###
 
-<img align="left" height="175" src="./gif/my_hunter.gif"  />
+<img align="left" height="170" src="./gif/my_hunter.gif"  />
 
 ###
 
-<img align="right" height="175" src="./gif/my_radar.gif"  />
+<img align="right" height="170" src="./gif/my_radar.gif"  />
 
 ###
