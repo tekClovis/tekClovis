@@ -37,12 +37,12 @@
 
 ###
 
-<img align="left" height="140" src="./gif/my_top.gif"  />
+<img align="center" height="140" src="./gif/my_top.gif"  />
 
 ###
 
-<img align="left" height="140" src="./gif/my_hunter.gif"  />
+<img align="center" height="140" src="./gif/my_hunter.gif"  />
 
 ###
 
-<img align="left" height="140" src="./gif/my_radar.gif"  />
+<img align="center" height="140" src="./gif/my_radar.gif"  />
