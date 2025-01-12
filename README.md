@@ -33,18 +33,14 @@
 
 ###
 
-<img align="left" height="209" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
+<img align="left" height="150" src="https://bytexd.com/wp-content/uploads/2021/08/word-image-2.gif"  />
 
 ###
 
-<img align="left" height="189" src="https://bytexd.com/wp-content/uploads/2021/08/word-image-2.gif"  />
+<img align="left" height="150" src="./gif/my_hunter.gif"  />
 
 ###
 
-<img align="left" height="100" src="./gif/my_hunter.gif"  />
-
-###
-
-<img align="left" height="100" src="./gif/my_radar.gif"  />
+<img align="left" height="150" src="./gif/my_radar.gif"  />
 
 ###
