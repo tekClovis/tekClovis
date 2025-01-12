@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -25,7 +25,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://outlook.office365.com/mail/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=clovisnedlec@epitech.eu&color=0078D4&logoColor=white&labelColor=blue&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
@@ -33,10 +33,18 @@
 
 ###
 
-<img align="right" height="209" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
+<img align="left" height="209" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/tekClovis/tekClovis/output/snake.svg" alt="Snake animation" />
+<img align="left" height="189" src="https://bytexd.com/wp-content/uploads/2021/08/word-image-2.gif"  />
+
+###
+
+<img align="left" height="200" src="./gif/my_hunter.gif"  />
+
+###
+
+<img align="left" height="200" src="./gif/my_radar.gif"  />
 
 ###
