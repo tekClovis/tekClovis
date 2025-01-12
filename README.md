@@ -33,6 +33,10 @@
 
 ###
 
+<h2 align="left">Some of my first semester project:</h2>
+
+###
+
 <img align="left" height="160" src="https://bytexd.com/wp-content/uploads/2021/08/word-image-2.gif"  />
 
 ###
