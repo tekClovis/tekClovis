@@ -36,13 +36,9 @@
 <h2 align="left">Some of my first semester project:</h2>
 
 ###
+<div align="center">
+  <img align="center" height="140" src="./gif/my_top.gif"  />
+  <img align="center" height="140" src="./gif/my_hunter.gif"  />
+  <img align="center" height="140" src="./gif/my_radar.gif"  />
+</div>
 
-<img align="center" height="140" src="./gif/my_top.gif"  />
-
-###
-
-<img align="center" height="140" src="./gif/my_hunter.gif"  />
-
-###
-
-<img align="center" height="140" src="./gif/my_radar.gif"  />
