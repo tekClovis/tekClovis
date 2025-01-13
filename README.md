@@ -36,7 +36,7 @@
 <h2 align="left">Some of my first semester project:</h2>
 
 ###
-[<img align=left height="160" src="./gif/my_top.gif"  />](https://github.com/tekClovis/My_top) 
-[<img align=left height="160" src="./gif/my_hunter.gif" />](https://github.com/tekClovis/My_hunter)
-[<img align=left height="160" src="./gif/my_radar.gif"  />](https://github.com/tekClovis/My_radar) 
+[<img align=left height="155" src="./gif/my_top.gif"  />](https://github.com/tekClovis/My_top) 
+[<img align=left height="155" src="./gif/my_hunter.gif" />](https://github.com/tekClovis/My_hunter)
+[<img align=left height="155" src="./gif/my_radar.gif"  />](https://github.com/tekClovis/My_radar) 
 
