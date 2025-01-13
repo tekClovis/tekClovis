@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tekClovis&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tekClovis&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekClovis&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekClovis&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" width="400" alt="languages graph"  />
 </div>
 
 ###
