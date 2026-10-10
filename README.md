@@ -67,7 +67,7 @@
       <sub><code>C</code> <code>CSFML</code></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://github.com/tekClovis/dashBoard"><img src="./gif/dashBoard.gif" alt="dashBoard" /></a><br>
+      <a href="https://github.com/tekClovis/dashBoard"><img src="./gif/dashboard.gif" alt="dashBoard" /></a><br>
       <b><a href="https://github.com/tekClovis/dashBoard">dashBoard</a></b><br>
       Customizable real-time dashboard aggregating GitHub, Steam, YouTube and weather widgets<br>
       <sub><code>TypeScript</code> <code>Docker</code> <code>OAuth 2.0</code></sub>
