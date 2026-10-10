@@ -77,7 +77,6 @@
 
 ## Languages
 
-<p style="display: flex; gap: 10px; justify-content: space-between; align-items: center; padding: 0 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tekClovis&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" height="170" alt="stats graph"  />
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekClovis&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" height="170" alt="languages graph" />
 </p>
